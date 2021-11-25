@@ -1,0 +1,25 @@
+{
+  "name": "netease-sea",
+  "version": "1.0.0",
+  "description": "seajs with netease patched",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "dist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wwsun/netease-sea.git"
+  },
+  "keywords": [
+    "netease"
+  ],
+  "author": "wwsun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wwsun/netease-sea/issues"
+  },
+  "homepage": "https://github.com/wwsun/netease-sea#readme"
+}
