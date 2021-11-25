@@ -1,6 +1,6 @@
-# seajs with patched
+# seajs with patch
 
-seajs with netease patched
+seajs with netease patch
 
 ## Usage
 
