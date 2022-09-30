@@ -1,6 +1,6 @@
 {
   "name": "netease-sea",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "seajs with netease patched",
   "main": "dist/index.js",
   "scripts": {
